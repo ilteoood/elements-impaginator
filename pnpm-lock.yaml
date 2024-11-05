@@ -56,8 +56,8 @@ devDependencies:
     specifier: ^29.5.0
     version: 29.5.0
   '@types/lodash.camelcase':
-    specifier: ^4.3.7
-    version: 4.3.7
+    specifier: ^4.3.9
+    version: 4.3.9
   '@types/node':
     specifier: ^18.19.39
     version: 18.19.39
@@ -2017,8 +2017,8 @@ packages:
     resolution: {integrity: sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==}
     dev: true
 
-  /@types/lodash.camelcase@4.3.7:
-    resolution: {integrity: sha512-Nfi6jpo9vuEOSIJP+mpbTezKyEt75DQlbwjiDvs/JctWkbnHDoyQo5lWqdvgNiJmVUjcmkfvlrvSEgJYvurOKg==}
+  /@types/lodash.camelcase@4.3.9:
+    resolution: {integrity: sha512-ys9/hGBfsKxzmFI8hckII40V0ASQ83UM2pxfQRghHAwekhH4/jWtjz/3/9YDy7ZpUd/H0k2STSqmPR28dnj7Zg==}
     dependencies:
       '@types/lodash': 4.14.192
     dev: true
