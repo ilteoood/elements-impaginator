@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@monaco-editor/react": "^4.5.0",
+    "@monaco-editor/react": "^4.6.0",
     "lodash.camelcase": "^4.3.0",
     "primeicons": "^6.0.1",
     "primereact": "^9.2.2",
