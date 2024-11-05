@@ -6,7 +6,7 @@
     "@monaco-editor/react": "^4.5.0",
     "lodash.camelcase": "^4.3.0",
     "primeicons": "^6.0.1",
-    "primereact": "^9.2.2",
+    "primereact": "^9.6.4",
     "react": "^18.2.0",
     "react-dnd": "^16.0.1",
     "react-dnd-html5-backend": "^16.0.1",
